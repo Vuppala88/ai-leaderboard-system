@@ -1,0 +1,17 @@
+{
+  "inputs": [
+    {
+      "name": "f1_c45",
+      "public": true,
+      "type": "field"
+    },
+    {
+      "name": "f1_cart",
+      "public": true,
+      "type": "field"
+    }
+  ],
+  "output": {
+    "type": "bool"
+  }
+}

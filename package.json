@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "ethers": "^6.13.5"
+    "autoprefixer": "^10.4.21",
+    "ethers": "^6.13.5",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.4"
   },
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "hardhat": "^2.23.0"
   }
 }

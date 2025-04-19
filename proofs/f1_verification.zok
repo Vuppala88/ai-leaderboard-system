@@ -1,0 +1,5 @@
+// ZoKrates circuit for F1-score verification
+def main(field f1_c45, field f1_cart) -> bool {
+    // Ensure that F1-score of C4.5 is greater than CART
+    return f1_c45 > f1_cart;
+}

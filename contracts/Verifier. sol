@@ -1,0 +1,7 @@
+pragma solidity ^0.8.0;
+
+contract Verifier {
+    function verifyProof(bytes memory proof) public pure returns (bool) {
+        return true; // Replace with actual proof validation
+    }
+}
